@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a passionate learner currently building hands-on ski
 ##  Featured Repositories
 - `AWS-re-Start-portfolio` – Labs, projects, and notes from AWS re/Start  
 - `linux-practice` – Command-line exercises and cheat sheets  
-- `
+- 
 - `cloud-security-dashboard` – Visualizing AWS security metrics 
 
 ---
