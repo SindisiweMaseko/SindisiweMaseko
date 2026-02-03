@@ -8,21 +8,20 @@ Welcome to my GitHub! I’m a passionate learner currently building hands-on ski
 
 ##  Current Learning Paths
 - AWS re/Start – Cloud fundamentals, Linux, Python, networking, and AWS services  
-- SheCodes – Front-end development with HTML, CSS, JavaScript  
-- Hackviser – Linux command-line and cybersecurity basics
+
 
 ---
 
 ## Tools & Technologies
-- AWS • GitHub • Linux • Python • HTML/CSS • JavaScript • DevOps • Cybersecurity
+- AWS • GitHub • Linux •
 
 ---
 
 ##  Featured Repositories
 - `AWS-re-Start-portfolio` – Labs, projects, and notes from AWS re/Start  
 - `linux-practice` – Command-line exercises and cheat sheets  
-- `shecodes-projects` – Front-end projects and challenges  
-- `cloud-security-dashboard` – Visualizing AWS security metrics (coming soon)
+- `
+- `cloud-security-dashboard` – Visualizing AWS security metrics 
 
 ---
 
