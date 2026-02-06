@@ -2,7 +2,7 @@
 
 **Cloud & Cybersecurity Enthusiast | Exploring AI & DevOps**
 
-Welcome to my GitHub! I’m a passionate learner currently building hands-on skills in cloud computing, cybersecurity, and AI through bootcamps and certifications. This space documents my journey, projects, and progress as I grow into a confident, job-ready tech professional.
+Welcome to my GitHub! I’m a passionate learner currently building hands-on skills in cloud computing. This space documents my journey, projects, and progress as I grow into a confident, job-ready tech professional.
 
 ---
 
@@ -30,12 +30,6 @@ Welcome to my GitHub! I’m a passionate learner currently building hands-on ski
 - Contribute to open-source and collaborative projects  
 - Grow as a cloud and security professional
 
----
-
-##  Personal Quote
-**“Sindisiwe Angel” — because tech is my magic.**
-
----
 
 ##  Connect With Me
 - LinkedIn: [linkedin.com/in/sindisiwe-m](https://www.linkedin.com/in/sindisiwe-m)  
